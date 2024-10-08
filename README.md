@@ -1,6 +1,6 @@
 # MemeGenerator
 
-🚀 Excited to share my Meme Generator project! 🎉
+🚀 Excited to share My Meme Generator project! 🎉
 
 🖼️ Built a fun and dynamic Meme Generator using HTML, CSS, and JavaScript! Check out the hilarious and heartwarming memes it generates with just a click. 😂
 
